@@ -72,7 +72,7 @@ Project Management: [Esther will add Trello link here]
 ## Setup Instructions
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python
 - Git
 
 ### Installation
