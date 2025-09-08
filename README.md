@@ -10,15 +10,7 @@ A comprehensive ETL (Extract, Transform, Load) pipeline and dashboard system for
 - Esther - Scrum Master & Project Coordinator (Trello)
 
 ## Architecture Diagram
-System Architecture: [Peggy will add Miro link here]
-
-The system follows this high-level data flow:
-```
-XML Input → Parse → Clean & Normalize → Categorize → SQLite DB → Dashboard
-                                                        ↓
-                                                    API (Optional)
-```
-
+System Architecture: https://miro.com/app/board/uXjVJKkj0Zg=/?share_link_id=844505314297
 ## Scrum Board
 Project Management: [Esther will add Trello link here]
 
@@ -78,8 +70,8 @@ Project Management: [Esther will add Trello link here]
 ### Installation
 1. Clone the repository
    ```bash
-   git clone [repository-url]
-   cd momo-transaction-dashboard
+   git clone https://github.com/Timothee-U/momo-trananalytics.git
+   cd momo-trananalytics
    ```
 
 2. Create virtual environment
@@ -97,13 +89,6 @@ Project Management: [Esther will add Trello link here]
    ```bash
    cp .env.example .env
    # Edit .env file with your configuration
-   ```
-
-5. Create directory structure
-   ```bash
-   mkdir -p frontend/{styles,scripts,assets}
-   mkdir -p storage/{input,output,monitoring/errors}
-   mkdir -p pipeline services automation quality_assurance
    ```
 
 ### Running the System
@@ -160,7 +145,6 @@ Project Management: [Esther will add Trello link here]
 - Backend: Python 3.8+
 - Database: SQLite3
 - Frontend: HTML5, CSS3, JavaScript (ES6+)
-- API: FastAPI (Optional)
 - XML Processing: lxml/ElementTree
 - Project Management: Trello
 - Architecture Design: Miro
@@ -178,4 +162,5 @@ Project Management: [Esther will add Trello link here]
 - Database schema design
 - ETL pipeline development
 - Frontend dashboard creation
-- Integration testin
+- Integration testing
+
