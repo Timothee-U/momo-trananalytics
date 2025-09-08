@@ -20,7 +20,7 @@ XML Input → Parse → Clean & Normalize → Categorize → SQLite DB → Dashb
 ```
 
 ## Scrum Board
-Project Management: [Digne will add Trello link here]
+Project Management: [Esther will add Trello link here]
 
 ## Project Structure
 ```
@@ -171,7 +171,7 @@ Project Management: [Digne will add Trello link here]
 ### Current Sprint Deliverables
 - GitHub repository setup (Timothee)
 - System architecture diagram (Peggy)
-- Scrum board setup (Digne)
+- Scrum board setup (Esther)
 - README.md documentation (Timothee)
 
 ### Next Sprint Planning
