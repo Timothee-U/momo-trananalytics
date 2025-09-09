@@ -70,7 +70,7 @@ Project Management: https://trello.com/invite/b/68bf6d4ff57bdd9777616bf6/ATTI736
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/Timothee-U/momo-trananalytics.git
+   git clone https://github.com/pdusenge/momo-trananalytics.git
    cd momo-trananalytics
    ```
 
@@ -163,5 +163,6 @@ Project Management: https://trello.com/invite/b/68bf6d4ff57bdd9777616bf6/ATTI736
 - ETL pipeline development
 - Frontend dashboard creation
 - Integration testing
+
 
 
